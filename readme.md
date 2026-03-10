@@ -1,1 +1,1 @@
-Esse diretório será utilizado durante as aulas de tópicos avançados de informática.
+Esse diretório será utilizado durante as aulas de tópicos avançados de informática. AS atividades realizadas em aula estarão aqui. 
